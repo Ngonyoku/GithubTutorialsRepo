@@ -1,3 +1,1 @@
-
-Some instructions have been added to this File.They were added on the sample branch.
-
+This was added Through the "add-more-instruction" branch on my Local machine.
